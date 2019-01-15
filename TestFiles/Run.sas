@@ -1,3 +1,3 @@
 /* Test SAS */
 
-run;
+run; run;
